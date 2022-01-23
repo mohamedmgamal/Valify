@@ -57,4 +57,4 @@ You can now run the development server:
     
 You can check api endpoind documentation on postman from :
 
-
+https://documenter.getpostman.com/view/14601930/UVXqECZW
